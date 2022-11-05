@@ -6,8 +6,6 @@ class SecondScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // TextEditingController textData = TextEditingController(text: data);
-
     return Scaffold(
       backgroundColor: const Color.fromARGB(255, 202, 205, 203),
       appBar: AppBar(
