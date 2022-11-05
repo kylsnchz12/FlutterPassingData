@@ -7,7 +7,7 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
-  //test change in vscode
+
   static const _title = 'First Page';
   @override
   Widget build(BuildContext context) {
